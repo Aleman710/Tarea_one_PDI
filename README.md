@@ -11,7 +11,7 @@ Procesamiento Digital de Imágenes — Semestre 2026-1
 | Nombre |
 |--------|
 | Rafael Alemán |
-| Esteban |
+| Esteban Correa |
 | Isabella Bedoya Gaviria |
 
 ---
